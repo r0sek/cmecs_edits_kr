@@ -1080,7 +1080,7 @@ Note: Nomenclatural standards and punctuation for vegetated biotic communities a
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.24.1</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.25.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -1094,7 +1094,7 @@ Note: Nomenclatural standards and punctuation for vegetated biotic communities a
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.24.2</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.25.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -1164,7 +1164,7 @@ Note: Nomenclatural standards and punctuation for vegetated biotic communities a
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.24</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.25</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Group</cmecs:unitType>
     </owl:Class>
     
@@ -12432,7 +12432,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <rdfs:label>Tidal Mangrove Forest</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.8.1.4.8</cmecs:unitCode>
+        <cmecs:unitCode>2.8.1.4</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Group</cmecs:unitType>
     </owl:Class>
     
@@ -18419,7 +18419,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <rdfs:label>*Stylaster* Reef</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.1.1.2.1</cmecs:unitCode>
+        <cmecs:unitCode>2.1.1.2.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -19568,7 +19568,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.24.3</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.25.3</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -19595,7 +19595,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.24.4</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.25.4</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -19609,7 +19609,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.24.5</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.25.5</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -24062,7 +24062,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
         <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Specify the mineral composition if known. 
 Use in combination with Substrate or Geoform Component units as needed.</cmecs:CMECS_00001670>
-        <cmecs:unitCode>MP</cmecs:unitCode>
+        <cmecs:unitCode>MI</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier</cmecs:unitType>
     </owl:Class>
     
@@ -24079,7 +24079,7 @@ Use in combination with Substrate or Geoform Component units as needed.</cmecs:C
         <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Specify the mineral composition if known. 
 Use in combination with Substrate or Geoform Component units as needed.</cmecs:CMECS_00001670>
-        <cmecs:unitCode>MP01</cmecs:unitCode>
+        <cmecs:unitCode>MI01</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -24096,7 +24096,7 @@ Use in combination with Substrate or Geoform Component units as needed.</cmecs:C
         <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Specify the mineral composition if known. 
 Use in combination with Substrate or Geoform Component units as needed.</cmecs:CMECS_00001670>
-        <cmecs:unitCode>MP02</cmecs:unitCode>
+        <cmecs:unitCode>MI02</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -24113,7 +24113,7 @@ Use in combination with Substrate or Geoform Component units as needed.</cmecs:C
         <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Specify the mineral composition if known. 
 Use in combination with Substrate or Geoform Component units as needed.</cmecs:CMECS_00001670>
-        <cmecs:unitCode>MP03</cmecs:unitCode>
+        <cmecs:unitCode>MI03</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
